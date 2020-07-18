@@ -1,0 +1,45 @@
+.profile-image {
+    width: 50%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.content {
+    font-size: 130%;
+    text-align: justify;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu-option {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.col-centered {
+    text-align: center;
+}
+
+ul {
+    margin-top: 10px;
+    color: #6d6d6d;
+}
+
+p {
+    color: #6d6d6d;
+}
+
+.col-left {
+    margin-left: 20px;
+}
+
+.col-right {
+    padding-left: 50px;
+    margin-right: 50px;
+}
